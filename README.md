@@ -5,13 +5,13 @@
 
 # Story Board dan Mock Up
 
-![312310594_EKA_JULIYANA_RAHAYU_UI_compressed-1](https://github.com/user-attachments/assets/b9567802-038d-4b2a-aabe-ae7100f2f3c1)
+![mock up dan story board app my daily-1](https://github.com/user-attachments/assets/3173c804-ffa8-4aeb-b4f6-4ddac72e1db7)
+
 
 # UI
 
-![312310594_EKA_JULIYANA_RAHAYU_UI_compressed-2](https://github.com/user-attachments/assets/8eb434ce-5814-4585-b2db-6b838d002bcf)
-![312310594_EKA_JULIYANA_RAHAYU_UI_compressed-3](https://github.com/user-attachments/assets/7ad28d66-f4ff-46b9-9e75-845e96cda992)
-![312310594_EKA_JULIYANA_RAHAYU_UI_compressed-4](https://github.com/user-attachments/assets/f02294a5-fa43-40b4-b27c-45a7a2d26b04)
-![312310594_EKA_JULIYANA_RAHAYU_UI_compressed-5](https://github.com/user-attachments/assets/98595762-b961-40de-91e3-4013ea8a564e)
-![312310594_EKA_JULIYANA_RAHAYU_UI_compressed-6](https://github.com/user-attachments/assets/fd094619-269b-4989-a6ec-ca9c6f7428ca)
-![312310594_EKA_JULIYANA_RAHAYU_UI_compressed-7](https://github.com/user-attachments/assets/6572d038-0230-4efc-95f3-11f5c61563e6)
+![1](https://github.com/user-attachments/assets/c5131a87-dfe0-4ee9-843d-c876aeec0708)
+![2](https://github.com/user-attachments/assets/c947d4a2-7a58-4a69-a61c-9ec82c6d72be)
+![3](https://github.com/user-attachments/assets/3a2fafcc-c79a-4fd4-8273-5d7719214e88)
+![4](https://github.com/user-attachments/assets/81964849-d92c-41dd-a7af-027a607ae05e)
+![5](https://github.com/user-attachments/assets/e5c3797b-6ede-4313-b65b-bd52bf48f869)
